@@ -11,5 +11,17 @@ could result in unexpected code modifications leading to errors/bugs/mis-functio
 
 -- 
 
+Describe the differences between forks, clones, and branches. When would you use one instead 
+of another?
+
+Forks are useful to 'clone' something within GitHub. Clones are required to sync b/w Github 
+and local setup, while may also be required to clone within the local setup. Branching is 
+used when you want to make any experimental or significant changes withing the repo, but 
+do not want to start altering the master branch just yet.
+
+--
+
+
+
 
 
