@@ -21,6 +21,11 @@ do not want to start altering the master branch just yet.
 
 --
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It would help track how much ahead we have moved from the remote tip, since the last sync
+
+-- 
 
 
 
