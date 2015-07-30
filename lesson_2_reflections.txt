@@ -1,0 +1,18 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A regular directory turns into a GIT repository which here after can track changes
+on file basis and maintain a history of changes when commits are made. 
+
+--
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+Staging area seems to be an intermediate spot b/w the working directory (no history) and 
+repository. It offers an ability to select files for a particular commit out of multiple 
+files open in the directory
+
+--
+
+
+
