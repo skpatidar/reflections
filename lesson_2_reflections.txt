@@ -38,5 +38,14 @@ merge with the master branch. Additionally it shows which of the branches are no
 
 --
 
+What is the result of merging two branches together? Why do we represent it in the diagram 
+the way we do?
+
+The result of merging two branches is a commit that represents code changes from both the
+branches. This commit's history now contains commits from both branches in order of time.
+
+--
+
+
 
 
