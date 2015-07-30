@@ -14,5 +14,19 @@ files open in the directory
 
 --
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+With staging area I can move all the files that are changed towards the logical change 
+into the staging area, then do a git diff staged to see what changes I am commiting. 
+
+--
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+For trying out new features/experiements, for ramping up new developers on a large project.
+For changes that are massive and atomic, we can branch out and merge back in when the whole
+thing works 
+
+--
 
