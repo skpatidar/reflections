@@ -1,0 +1,83 @@
+How did viewing a diff between two versions of a file help you see 
+the bug that was introduced?
+
+
+Diff simplifies the problem of debugging into an exercise of locating 
+differences on a line by line basis. 
+
+Problem of debugging the whole code reduces to a comparison exercise 
+which is much simpler. Tool indicating which lines really changed 
+helps focus on the important stuff rather than going through the whole
+content. 
+
+-- 
+
+How could having easy access to the entire history of a file make 
+you a more efficient programmer in the long term?
+
+
+Ability to save versions allows for making small progress frequently. 
+A good habit is to code small functionality, test it and then move 
+ahead. 
+
+Version system would allow for maintaining a history of all such check
+ins and more importantly will always have a working set available from 
+the last checkin.
+
+-- 
+
+What do you think are the pros and cons of manually choosing when to create 
+a commit, like you do in Git, vs having versions automatically saved, 
+like Google docs does?
+
+Pros : 
+	- Guaranteed working version on all checkins
+	- Avoids unnecessary commits 
+	- Easy to debug any new bugs 
+
+Cons : 
+	- Too less (human judgement) commit could cause a massive commit with 
+	  bugs 
+
+-- 
+
+Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat each 
+file separately?
+
+Because the atomic unit of a revision is different for code files than 
+something like multiple pictures or documents
+
+
+-- 
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+I will use git log to locate the commit of interest and then use git diff 
+to check out the changes b/w that commit and the previous commit 
+
+-- 
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+As long as we have a working commit done, it allows for undertaking some 
+tough changes
+
+-- 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use Git for my original app Sunshine and also for the content provider
+example app 
+
+Hereafter I want to use Git and Gitbash for all my projects on windows laptop
+
+-- 
+
+
+
+
+
+
