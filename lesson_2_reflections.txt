@@ -46,6 +46,14 @@ branches. This commit's history now contains commits from both branches in order
 
 --
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Saves a lot of time on simple merges like that of feature adding by different people. 
+A lot of new files and minimal changes in common files can be trusted to be automatically 
+merged which is how most sw development happens
+
+--
+
 
 
 
