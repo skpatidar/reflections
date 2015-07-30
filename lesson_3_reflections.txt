@@ -27,6 +27,13 @@ It would help track how much ahead we have moved from the remote tip, since the 
 
 -- 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would 
+be harder?
+
+Would have to maintain a realease and a dev branch which will require to manually merge into
+dev branch. Would be very hard to collaborate 
+
+--
 
 
 
