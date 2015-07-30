@@ -30,3 +30,13 @@ thing works
 
 --
 
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help understand current branch's position in the repository, in case the master 
+branch has seen more commits, it gives an idea of where the current branch would eventually
+merge with the master branch. Additionally it shows which of the branches are not reachable.
+
+--
+
+
+
