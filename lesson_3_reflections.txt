@@ -35,5 +35,17 @@ dev branch. Would be very hard to collaborate
 
 --
 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+Any experimental features that I am not sure will make into the final branch, and also 
+which I plan to work on the side and still continue to work on the master branch for 
+regular development, I would like to create a branch.
+
+Branching will lead to some additional work if we end up manually merging a lot of code,
+but its benefecial in terms of not de-railing the master branch for work that might cause
+additional fetch/discard for other users
+
+--
 
 
